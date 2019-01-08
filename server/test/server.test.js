@@ -1,6 +1,6 @@
 'use strict';
 
-const app = require('../server');
+const app = require('../src/server');
 const chai = require('chai');
 const request = require('supertest');
 const querystring = require('querystring');

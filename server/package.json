@@ -1,10 +1,11 @@
 {
-  "name": "toolbox-ex-1-server",
+  "name": "toolbox-exercise-1-server",
   "version": "1.0.0",
-  "description": "Toolbox Excercice 1 - Server",
-  "main": "server.js",
+  "description": "Toolbox exercise 1 - Server",
+  "main": "src/server.js",
   "scripts": {
-    "test": "mocha --exit"
+	"test": "mocha test --exit",
+	"start": "node src/server.js"
   },
   "author": "Sergio Vaquero",
   "license": "ISC",

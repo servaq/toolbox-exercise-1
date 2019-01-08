@@ -1,7 +1,7 @@
 {
-  "name": "toolbox-ex-1-client",
+  "name": "toolbox-exercise-1-client",
   "version": "1.0.0",
-  "description": "Toolbox Excercice 1 - Client",
+  "description": "Toolbox exercise 1 - Client",
   "main": "client.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
